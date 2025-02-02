@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Developer<br>👯 I’m looking to collaborate on Web Development projects<br>🤝 I’m looking for help with finding a Job<br>🌱 I’m currently learning the React framework and Advanced Data Structures & Algorithms (DSA)<br>💬 Ask me about web development<br>⚡ Fun fact: I'm passionate about learning new technologies and solving complex problems!
+🔭 I’m currently working as a Software Developer Engineer<br>👯 I’m looking to collaborate on Web Development projects<br>🤝 I’m looking for help with finding a Job<br>🌱 I’m currently learning the React framework and Advanced Data Structures & Algorithms (DSA)<br>💬 Ask me about web development<br>⚡ Fun fact: I'm passionate about learning new technologies and solving complex problems!
 
 
 ## 🌐 Socials:
